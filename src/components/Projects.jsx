@@ -3,7 +3,7 @@ export default function Projects() {
     {
       title: "Portfolio Website",
       description: "A Personal Portfolio  designed to showcase my projects, skills, and experience.",
-      link: "https://github.com/Saqlaina-Mushtaq/NotesApp.git",
+      link: "https://github.com/Saqlaina-Mushtaq/My-Portfolio.git",
     },
     {
       title: "Notes App",

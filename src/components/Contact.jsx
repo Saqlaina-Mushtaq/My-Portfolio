@@ -48,10 +48,7 @@ export default function Contact() {
         <div className="mt-10">
           <p className="text-lg">Or reach me via:</p>
           <p className="mt-2 text-gray-700 font-semibold">
-            📧 Email: <a href="emailt:saqlainamushtaq1913@gmail.com" className="text-blue-600">Saqlaina Muhtaq</a>
-          </p>
-          <p className="mt-1 text-gray-700 font-semibold">
-            🔗 LinkedIn: <a href="https://www.linkedin.com/in/saqlaina-mushtaq-a506061a6/" target="_blank" rel="noopener noreferrer" className="text-blue-600">Saqlaina Mushtaq</a>
+            📧 Email: <a href="emailt:saqlainamushtaq1913@gmail.com" className="text-gray-500">Saqlainamushtaq1913@gmail.com</a>
           </p>
         </div>
       </div>
